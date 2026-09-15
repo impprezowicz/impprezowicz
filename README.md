@@ -26,7 +26,3 @@ No Current Project at the time
 <p align="center">
   <img src="./assets/terminal.gif" width="85%" alt="Animated terminal">
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=impprezowicz&style=flat-square&color=58a6ff" alt="Profile views">
-</p>
