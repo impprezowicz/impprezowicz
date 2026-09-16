@@ -7,8 +7,8 @@
 
 ## ABOUT ME
 
-> Building things
-> Learning C++ / Python
+> Building things /
+> Learning C++ / Python /
 > Linux / AI / Hardware
 
 ## CURRENT PROJECTS
